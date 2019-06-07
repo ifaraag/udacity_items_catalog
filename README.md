@@ -31,7 +31,7 @@ pip  install  -r  requirements.txt
 3. Clone this repo by going to your desired location
 * Right click anywhere and choose ```Git bash here ```, Then use the following console commands
 ```sh
-$ git clone https://github.com/mohspread/Udacity-Items-Catalog/ catalog
+$ git clone https://github.com/ifaraag/udacity_items_catalog.git
 ```
 4. Launch Vagrant with the following commands:
 ```sh
